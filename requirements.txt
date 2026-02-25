@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+prophet
+plotly
+scikit-learn
+openpyxl
+cmdstanpy
