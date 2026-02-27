@@ -1,4 +1,4 @@
-# 🏠 Nagpur Real Estate Analytics & Forecasting Dashboard
+# 🏠 Real Estate Analytics & Forecasting Dashboard
 
 An end-to-end data science project that scrapes real estate listings, performs data cleaning and analysis, builds price forecasting using Facebook Prophet, and presents insights through an interactive Streamlit dashboard.
 
